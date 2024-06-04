@@ -18,3 +18,9 @@
 - [Talk: Micro Frontends - Web Rebels, Oslo 2018 (Slides) Think Smaller, Avoid the Monolith, ❤️the Backend](https://www.youtube.com/watch?v=dTW7eJsIHDg)
 - [Slides: Micro Frontends - JSUnconf.eu 2017](https://speakerdeck.com/naltatis/micro-frontends-building-a-modern-webapp-with-multiple-teams)
 - [Talk: Break Up With Your Frontend Monolith - JS Kongress 2017 Elisabeth Engel talks about implementing Micro Frontends at gutefrage.net](https://www.youtube.com/watch?v=W3_8sxUurzA)
+
+
+## Courses
+
+- [Micro-Frontends Course - Beginner to Expert (free)](https://www.youtube.com/watch?v=lKKsjpH09dU)
+- [Microfrontends with React: A Complete Developer's Guide (paid)](https://www.udemy.com/course/microfrontend-course/?couponCode=ST19MT60324)

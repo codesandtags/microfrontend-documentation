@@ -6,7 +6,7 @@ This repository contains the documentation for Micro Frontends, a software archi
 
 - [Timeline](docs/timeline.md)
 - [Overview](docs/overview.md)
-- [Articles and websites](docs/articles.md)
+- [Content about Micro Frontends](docs/content.md)
 - [Books](docs/books.md)
 - [Use Cases](docs/use-cases.md)
 - [Best Practices](docs/best-practices.md)
