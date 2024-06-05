@@ -21,3 +21,12 @@
 - **Not suitable for small projects/teams**: Micro frontends are best suited for large, complex applications with multiple teams working on different parts of the application. For small projects or teams, the overhead of managing multiple services and deployments may outweigh the benefits of micro frontends.
 - **Coordination between teams (versioning, consistent user experience)**: Coordinating between multiple teams working on different micro frontends can be challenging, especially when it comes to versioning, ensuring a consistent user experience, and managing dependencies between services.
 - **Performance issues (loading times, memory consumption)**: Micro frontends can introduce performance issues, such as slower loading times and increased memory consumption, especially when not optimized properly. Managing multiple services and dependencies can lead to additional overhead and complexity that can impact the overall performance of the application.
+
+## Conclusions
+
+- Micro frontends is an alternative approach to traditional software development, dividing an application into vertical slices, each managed by a dedicated team.
+- This approach allows for feature development to be optimized, with teams including all necessary skills and reducing coordination between frontend and backend teams.
+- Each team is responsible for their complete stack, from frontend to database, allowing for easier frontend upgrades and increased customer focus.
+- The micro frontends approach is based on autonomous teams and systems, each with its own data store, reducing reliance on synchronous calls to other systems.
+- Teams should be cross-functional, with members working together on a specific customer need, rather than being grouped by skills or technologies.
+- This approach allows for the creation of interdisciplinary teams, which can come up with more creative and effective solutions for their specific area of expertise.

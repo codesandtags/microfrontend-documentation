@@ -23,25 +23,25 @@ markmap:
 - Enable integration of multiple web technologies
 - Increase scalability and maintenability
 
-
 ## Trade-offs
 
 - Benefits
-    - Increase teams autonomy
-    - Independent deployments
-    - Simple and decoupled codebases
-    - Incremental updates
-    - Faster Time To Market (Business)
-    - Failures only concern a single service
-    - Teams have more freedom to tech stack
-    - Customer focus
+
+  - Increase teams autonomy
+  - Independent deployments
+  - Simple and decoupled codebases
+  - Incremental updates
+  - Faster Time To Market (Business)
+  - Failures only concern a single service
+  - Teams have more freedom to tech stack
+  - Customer focus
 
 - Drawbacks
-    - Redundancy: Payload size because of duplication 
-    - Environment differences
-    - Additional integration complexity
-    - Not suitable for small projects/teams
-    - Coordination between teams (versioning, consistent user experience)
+  - Redundancy: Payload size because of duplication
+  - Environment differences
+  - Additional integration complexity
+  - Not suitable for small projects/teams
+  - Coordination between teams (versioning, consistent user experience)
 
 ## Frameworks, Libraries, Technologies
 
@@ -64,7 +64,6 @@ markmap:
 - Vertical Split
 - Horizontal Split
 
-
 ## Use Cases
 
 - IKEA (e-commerce)
@@ -74,12 +73,11 @@ markmap:
 - Zalando (e-commerce)
 - Hello Fresh (food)
 
-
 ## Books
 
 - Micro Frontends in Action, Michael Geers
 - Building Micro Frontends, Luca Mezzarila
-- The Art of Micro Frontends, Florian Rappl 
+- The Art of Micro Frontends, Florian Rappl
 
 ## Examples
 

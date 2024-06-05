@@ -6,3 +6,4 @@
 - “Reducing waiting time between teams is micro frontends' primary goal.” – Micro Frontends in Action by Michael Geers
 - “Micro frontends are not a concrete technology. They’re an alternative organizational and architectural approach” Micro Frontends in Action by Michael Geers
 - "Good frontend development is hard. Scaling frontend development so that many teams can work simultaneously on a large and complex product is even harder." – Micro Frontends by Cam Jackson
+- Having a shared design system helps to achieve a consistent look and feel across all team frontends. – Micro Frontends in Action.
