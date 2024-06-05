@@ -2326,8 +2326,8 @@
     {
       "id": "UGXH299Br9jlYTfhJop_k",
       "type": "text",
-      "x": 187.19428396485216,
-      "y": -160.78451871755766,
+      "x": 147.46552909182344,
+      "y": -124.77332854350163,
       "width": 795.8215187318475,
       "height": 67.00641593977434,
       "angle": 0,
@@ -2342,8 +2342,8 @@
       "frameId": null,
       "roundness": null,
       "seed": 100556625,
-      "version": 889,
-      "versionNonce": 1425212081,
+      "version": 1014,
+      "versionNonce": 1343206609,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2351,7 +2351,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1717625737199,
+      "updated": 1717628142285,
       "link": null,
       "locked": false,
       "text": "Micro Frontends Decision Tree",
