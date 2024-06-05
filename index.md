@@ -1,6 +1,6 @@
 # Micro Frontends documentation
 
-This repository contains the documentation for Micro Frontends, a Software Architecture pattern/style that following a set of techniques, allows frontend applications to be built as a composition of smaller, independently deployable units.
+This repository contains the documentation for Micro Frontends, a Software Architecture pattern/style that following a set of techniques, allows frontend applications to be built as a composition of smaller, independently deployable units. [View repository](https://github.com/codesandtags/microfrontend-documentation).
 
 ## Table of Contents
 
@@ -10,6 +10,11 @@ This repository contains the documentation for Micro Frontends, a Software Archi
 - [Books](docs/books.md)
 - [Use Cases](docs/use-cases.md)
 - [Best Practices](docs/best-practices.md)
-- [Tools and Frameworks](docs/tools-and-frameworks.md)
+- [Frameworks and libraries](docs/frameworks-and-libraries.md)
+- [Decision Tree](docs/decision-tree.md)
 - [Quotes](docs/quotes.md)
 - [Global events](docs/events.md)
+
+## Micro Frontends Mindmap
+
+![Micro Frontends Mindmap](./docs/images/microfrontends-mindmap.png)
