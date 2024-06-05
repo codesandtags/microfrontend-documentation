@@ -1,6 +1,6 @@
 # Micro Frontends documentation
 
-This repository contains the documentation for Micro Frontends, a software architecture pattern that allows frontend applications to be built as a composition of smaller, independently deployable units.
+This repository contains the documentation for Micro Frontends, a Software Architecture pattern/style that following a set of techniques, allows frontend applications to be built as a composition of smaller, independently deployable units.
 
 ## Table of Contents
 
@@ -12,3 +12,4 @@ This repository contains the documentation for Micro Frontends, a software archi
 - [Best Practices](docs/best-practices.md)
 - [Tools and Frameworks](docs/tools-and-frameworks.md)
 - [Quotes](docs/quotes.md)
+- [Global events](docs/events.md)
